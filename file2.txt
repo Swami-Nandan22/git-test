@@ -3,3 +3,5 @@ adding more content to file 2.
 
 
 another fix message for pink mode
+
+another fixes for purple mode
